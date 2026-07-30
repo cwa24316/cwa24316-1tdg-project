@@ -25,3 +25,8 @@ img{
     display: flex;
     justify-content: center;
 }
+
+.links{
+    display: flex;
+    justify-content: space-around;
+}
