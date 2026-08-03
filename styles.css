@@ -19,6 +19,7 @@
 
 img{
     width: 500px;
+    padding: 10px;
 }
 
 .heading{
@@ -34,4 +35,9 @@ img{
 .dates{
     display: flex;
     justify-content: space-around;
+}
+
+.attribution{
+    display: flex;
+    justify-content: flex-end;
 }
