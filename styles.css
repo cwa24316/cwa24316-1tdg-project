@@ -1,9 +1,12 @@
 .nav-bar{
-    color: solid white;
     background-color: #005b84;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+
+a:visited {
+    color: white;
 }
 
 .container{
