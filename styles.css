@@ -25,6 +25,10 @@ img{
     padding: 10px;
 }
 
+body{
+    background-color: #e4f1f3;
+}
+
 .heading{
     display: flex;
     justify-content: center;
