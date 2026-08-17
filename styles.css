@@ -22,7 +22,7 @@ a:visited {
 
 img{
     width: 500px;
-    padding: 10px;
+    padding: 10px 50px 5px 50px;
 }
 
 body{
@@ -33,6 +33,10 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     
+}
+
+p{
+    padding: 40px;
 }
 
 .heading{
@@ -53,4 +57,13 @@ p{
 .attribution{
     display: flex;
     justify-content: flex-end;
+}
+
+.contacts{
+    display: flex;
+    align-items: flex-end;
+}
+
+.contacts{
+    padding: 40px;
 }
