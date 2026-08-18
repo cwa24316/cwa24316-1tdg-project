@@ -67,3 +67,9 @@ p{
 .contacts{
     padding: 40px;
 }
+
+.subheading{
+    text-decoration: overline underline;
+    padding-top: 50px;
+    
+}
