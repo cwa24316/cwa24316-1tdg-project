@@ -17,7 +17,6 @@ a:visited {
 .photo{
     display: flex;
     flex-direction: row;
-
 }
 
 img{
@@ -26,16 +25,12 @@ img{
 }
 
 body{
-    background-color: #e4f1f3;
+    background-color: #c6e9ee;
 }
 
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    
-}
-
-p{
     padding: 40px;
 }
 
@@ -48,6 +43,21 @@ p{
     display: flex;
     justify-content: space-around;
 }
+
+.links a:link, a:visited {
+    background-color: #a6e4d0;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    border: #5db198 2px solid;
+  }
+
+.links a:hover, a:active {
+    background-color: #76ceb4;
+  }
 
 .dates{
     display: flex;
@@ -71,5 +81,10 @@ p{
 .subheading{
     text-decoration: overline underline;
     padding-top: 50px;
+    color: #005b84;
     
+}
+
+h1{
+    color: #005b84;
 }
