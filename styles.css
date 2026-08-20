@@ -51,11 +51,11 @@ p{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 15px;
+    border-radius: 20px;
     border: #5db198 2px solid;
   }
 
-.links a:hover, a:active {
+.links a:hover {
     background-color: #76ceb4;
   }
 
