@@ -5,7 +5,7 @@
     justify-content: space-around;
 }
 
-a:visited {
+a:link, a:visited {
     color: white;
 }
 
